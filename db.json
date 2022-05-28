@@ -1,0 +1,41 @@
+{
+  "productlist": [
+    {
+      "productName": "TV",
+      "category": "Vegetables",
+      "freshness": "Refurbished",
+      "price": 5000,
+      "comment": "",
+      "date": "2022-02-09T19:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Fan",
+      "category": "Electronics",
+      "freshness": "Refurbished",
+      "price": 40,
+      "comment": "this is fan",
+      "date": "2022-02-13T19:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "peachhttt",
+      "category": "Fruits",
+      "freshness": " Second Hand",
+      "price": 66,
+      "comment": "",
+      "date": "2022-05-10T07:00:00.000Z",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
